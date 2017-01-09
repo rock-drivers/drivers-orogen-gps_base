@@ -2,6 +2,7 @@
   <description brief="GPS-related types">
   </description>
   <author>Sylvain Joyeux/bir.sylvain@gmail.com</author>
+  <license>LGPLv2+</license>
   <depend package="base/cmake" />
   <depend package="drivers/gps_base" />
 </package>
