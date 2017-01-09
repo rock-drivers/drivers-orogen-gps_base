@@ -1,0 +1,6 @@
+name "gps_base"
+
+
+using_library 'gps_base'
+import_types_from "gps_base/BaseTypes.hpp"
+type_export_policy :all

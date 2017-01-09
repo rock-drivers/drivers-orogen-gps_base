@@ -1,0 +1,7 @@
+<package>
+  <description brief="GPS-related types">
+  </description>
+  <author>Sylvain Joyeux/bir.sylvain@gmail.com</author>
+  <depend package="base/cmake" />
+  <depend package="drivers/gps_base" />
+</package>
