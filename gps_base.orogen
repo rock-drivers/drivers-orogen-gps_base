@@ -1,5 +1,6 @@
 name "gps_base"
 
+import_types_from 'base'
 
 using_library 'gps_base'
 import_types_from "gps_base/BaseTypes.hpp"
